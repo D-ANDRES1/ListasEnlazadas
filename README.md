@@ -1,6 +1,6 @@
 # Proyecto de Listas Enlazadas
 
-Este proyecto contiene implementaciones de diferentes tipos de listas enlazadas del single, doubly y simple.
+Este proyecto contiene implementaciones de diferentes tipos de listas enlazadas del single, doubly y circular.
 
 
 # ListasEnlazadas
